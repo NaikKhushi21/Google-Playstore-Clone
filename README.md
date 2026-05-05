@@ -76,13 +76,4 @@ flowchart LR
   API --> JWT[JWT Auth]
   API --> Flyway[Flyway Migrations]
 ```
-
 ## Screenshots
-Add your screenshots here for the portfolio:
-- `docs/screenshot-home.png`
-- `docs/screenshot-details.png`
-- `docs/screenshot-reviews.png`
-
----
-Feel free to fork and customize branding, colors, and seed data.
-# Google-Playstore-Clone
